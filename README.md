@@ -22,4 +22,5 @@ Tentativa 1: Advinhe um número entre 1 e 100: 50
 O número é menor que 50
 Tentativa 2: Advinhe um número entre 1 e 100: 25
 O número é maior que 25
+Tentativa 3: Advinhe um número entre 1 e 100: 35
 Parabéns, você acertou o número!
